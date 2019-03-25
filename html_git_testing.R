@@ -1,0 +1,12 @@
+#' ---
+#' title: "HTML Git Testing"
+#' author: "jotunnch"
+#' date: "March 24, 2019"
+#' output: github_document
+#' ---
+
+#' Giving this my own stamp.
+#+ r
+free_throws <- rbinom(n = 20, size = 30, prob = 0.75)
+hist(free_throws)
+
