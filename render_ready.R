@@ -16,3 +16,6 @@ summary(VADeaths)
 #' this chunk, so the resulting PNG has a decent name.
 #+ dotchart
 dotchart(VADeaths, main = "Death Rates in Virginia - 1940")
+
+#' Forgot how to do this
+str(VADeaths)
